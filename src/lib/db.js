@@ -1,8 +1,8 @@
 const mongoose = require ('mongoose')
 
 const dbUser = 'Marce'
-const dbPassword = 'chela1902'
-const dbHost = '@septimageneracion-8falf.mongodb.net'
+const dbPassword ='chela1902'
+const dbHost = 'septimageneracion-8falf.mongodb.net'
 const dbName = 'Medium'
 //mongodb+srv://Marce:<password>@septimageneracion-8falf.mongodb.net/test?retryWrites=true&w=majority
 
